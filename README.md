@@ -72,6 +72,11 @@ Allergyzz is an interactive story-driven experience designed to make learning ab
 </div>
 
 <h2 align="center">Preview</h2>
+<img width="1024" height="768" alt="AllergyzzThumbnail" src="https://github.com/user-attachments/assets/8e9669dc-b067-49d4-894f-7d99190118b7" />
+![screenshot1Allergyzz](https://github.com/user-attachments/assets/fa3cbb73-3dd4-42f9-8730-548c8d0f9a8f)
+![screenshot2Allergyzz](https://github.com/user-attachments/assets/819f8f09-2ee1-442c-9997-ceb749825f43)
+![screenshot3Allergyzz](https://github.com/user-attachments/assets/daeaa214-1349-42f5-8859-1be332c778fb)
+
 
 
 
