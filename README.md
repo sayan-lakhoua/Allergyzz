@@ -72,11 +72,24 @@ Allergyzz is an interactive story-driven experience designed to make learning ab
 </div>
 
 <h2 align="center">Preview</h2>
-<img width="1024" height="768" alt="AllergyzzThumbnail" src="https://github.com/user-attachments/assets/8e9669dc-b067-49d4-894f-7d99190118b7" />
-![screenshot1Allergyzz](https://github.com/user-attachments/assets/fa3cbb73-3dd4-42f9-8730-548c8d0f9a8f)
-![screenshot2Allergyzz](https://github.com/user-attachments/assets/819f8f09-2ee1-442c-9997-ceb749825f43)
-![screenshot3Allergyzz](https://github.com/user-attachments/assets/daeaa214-1349-42f5-8859-1be332c778fb)
 
+<img width="1024" height="768" alt="AllergyzzThumbnail" src="https://github.com/user-attachments/assets/8e9669dc-b067-49d4-894f-7d99190118b7" />
+<img width="2880" height="1800" alt="screenshot1Allergyzz" src="https://github.com/user-attachments/assets/f36d5b3e-7155-41c3-a956-239d2a6e06a2" />
+<img width="2880" height="1800" alt="screenshot2Allergyzz" src="https://github.com/user-attachments/assets/5d66e305-0171-4877-81f0-a6d107af685c" />
+<img width="2880" height="1800" alt="screenshot3Allergyzz" src="https://github.com/user-attachments/assets/5d7179c8-9e3f-4673-b0c6-536a563fd1d7" />
+
+<h2 align="center">What is the Swift Student Challenge?</h2>
+
+
+<p>
+Apple is proud to support and uplift the next generation of developers, creators, and entrepreneurs with the Swift Student Challenge. The Challenge has given thousands of student developers the opportunity to showcase their creativity and coding capabilities through app playgrounds, and learn real-world skills that they can take into their careers and beyond.
+
+Learn more: https://developer.apple.com/swift-student-challenge/
+</p>
+
+---
+
+Thank you to everyone at Apple who makes the Swift Student Challenge possible each year.
 
 
 
