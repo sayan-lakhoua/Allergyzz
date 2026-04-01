@@ -3,6 +3,11 @@
   <img src="https://github.com/user-attachments/assets/3b4711dd-d466-41f5-b2bc-e564c4d94a13" width="88%" height="88%" style="display:block;" />
 </div>
 
+
+<img width="21406" height="3679" alt="sscWinnerBannerWhite" src="https://github.com/user-attachments/assets/ab0280ac-392a-4678-89b1-ff9dde5e143b" />
+
+
+
 ---
 
 <p align="center">
