@@ -1,12 +1,18 @@
 <div align="center" style="margin: 0; padding: 0;">
-  <img src="https://github.com/user-attachments/assets/aa9fc332-93f1-4e69-a7e9-83c8ee1a8a4d" width="100%" style="display:block;" />
-  <img src="https://github.com/user-attachments/assets/3b4711dd-d466-41f5-b2bc-e564c4d94a13" width="88%" height="88%" style="display:block;" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/567901cf-09d3-4783-8830-5c8f3a634566">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/aa9fc332-93f1-4e69-a7e9-83c8ee1a8a4d">
+    <img src="https://github.com/user-attachments/assets/aa9fc332-93f1-4e69-a7e9-83c8ee1a8a4d" width="100%" style="display:block;" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ab0280ac-392a-4678-89b1-ff9dde5e143b">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3b4711dd-d466-41f5-b2bc-e564c4d94a13">
+    <img src="https://github.com/user-attachments/assets/3b4711dd-d466-41f5-b2bc-e564c4d94a13" width="88%" style="display:block;" />
+  </picture>
+
 </div>
-
-
-<img width="21406" height="3679" alt="sscWinnerBannerWhite" src="https://github.com/user-attachments/assets/ab0280ac-392a-4678-89b1-ff9dde5e143b" />
-
-
 
 ---
 
