@@ -5,11 +5,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/aa9fc332-93f1-4e69-a7e9-83c8ee1a8a4d">
     <img src="https://github.com/user-attachments/assets/aa9fc332-93f1-4e69-a7e9-83c8ee1a8a4d" width="100%" style="display:block;" />
   </picture>
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/05a3fe02-e436-42c8-bf6b-650e547f4088">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/51a889b7-5611-4b37-8006-dd344743e41d">
-  <img src="https://github.com/user-attachments/assets/51a889b7-5611-4b37-8006-dd344743e41d" alt="Swift Student Challenge 2026 Winner" width="86%" style="display:block;" />
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/97f4cb23-cba5-45b7-81db-092263beeedf">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/69dd3dfd-7674-443f-b68d-568bb7ea27ef">
+  <img src="https://github.com/user-attachments/assets/69dd3dfd-7674-443f-b68d-568bb7ea27ef" alt="Swift Student Challenge 2026 Winner" width="86%" style="display:block;" />
 </picture>
 
 </div>
