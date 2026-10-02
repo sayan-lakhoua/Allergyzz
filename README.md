@@ -7,10 +7,10 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ab0280ac-392a-4678-89b1-ff9dde5e143b">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3b4711dd-d466-41f5-b2bc-e564c4d94a13">
-    <img src="https://github.com/user-attachments/assets/3b4711dd-d466-41f5-b2bc-e564c4d94a13" width="88%" style="display:block;" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/05a3fe02-e436-42c8-bf6b-650e547f4088">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/51a889b7-5611-4b37-8006-dd344743e41d">
+  <img src="https://github.com/user-attachments/assets/51a889b7-5611-4b37-8006-dd344743e41d" alt="Swift Student Challenge 2026 Winner" width="86%" style="display:block;" />
+</picture>
 
 </div>
 
